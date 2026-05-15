@@ -626,7 +626,7 @@ MonoBehaviour:
   _headTop: 0.08285302
   _chinY: 0.068
   _underbustY: 0.4
-  _waistY: 0.58690715
+  _waistY: 0.5536911
   _highHipY: 0.75
   _crotchBottom: 0.06459641
   _headEllipseX: 0.061867103
@@ -649,7 +649,7 @@ MonoBehaviour:
   _neckEllipseNegZ: 0.026211087
   _sternumEllipseNegZ: 0.041391846
   _chestEllipseNegZ: 0.032873377
-  _waistEllipseNegZ: 0.046405002
+  _waistEllipseNegZ: 0.04640502
   _highHipsEllipseNegZ: 0.081002936
   _hipsEllipseNegZ: 0.10659038
   _thighUpperEllipse:

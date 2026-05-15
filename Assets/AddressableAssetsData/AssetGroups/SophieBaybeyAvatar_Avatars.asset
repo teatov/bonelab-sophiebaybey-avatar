@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SophieBaybeyAvatar_Avatars
+  m_EditorClassIdentifier: 
+  m_GroupName: SophieBaybeyAvatar_Avatars
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a1597eef94ec9964997ae9bf9797b00d
+  m_SerializeEntries:
+  - m_GUID: 9e6eb62f208ada044992534dc1b2326f
+    m_Address: Avatar/SophieBaybey
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 526443229eb5bed4db610b996a232b07
+    m_Address: PreviewMesh/SophieBaybey
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1124cc844f78ae94ba8f1cb823bf5aee, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 53d81b8618bc8f047acb1f388c27fb11, type: 2}
+    - {fileID: 11400000, guid: 04cedd5f0628eec4f89c7b10bff9652b, type: 2}
+    - {fileID: 11400000, guid: 8135b608ab685b1488cf99e47cae5651, type: 2}
