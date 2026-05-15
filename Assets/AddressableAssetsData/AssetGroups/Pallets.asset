@@ -17,8 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 926ad1663b41910488a506764897bb0d
   m_SerializeEntries:
-  - m_GUID: 1890dc94888da2341848d0d7d18cdf61
-    m_Address: Teatov.SophieBaybeyAvatar
+  - m_GUID: 605a15ea3a879da4aa870d935755274d
+    m_Address: Teatov.BabbleAvatar
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
