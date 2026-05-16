@@ -140,7 +140,7 @@ MonoBehaviour:
   _headEllipseX: 0.15499432
   _jawEllipseX: 0.15442003
   _neckEllipseX: 0.035000008
-  _chestEllipseX: 0.10969796
+  _chestEllipseX: 0.10969797
   _waistEllipseX: 0.144339
   _highHipsEllipseX: 0.166895
   _hipsEllipseX: 0.1664864
@@ -176,29 +176,29 @@ MonoBehaviour:
     ZRadius: 0.060836375
     ZBias: 0
   _ankleEllipse:
-    XRadius: 0.07600896
+    XRadius: 0.07712269
     XBias: 0
     ZRadius: 0.07275497
     ZBias: 0
   _upperarmEllipse:
-    XRadius: 0.03
+    XRadius: 0.02273177
     XBias: 0
-    ZRadius: 0.03
+    ZRadius: 0.025770012
     ZBias: 0
   _elbowEllipse:
-    XRadius: 0.03200041
+    XRadius: 0.022914793
     XBias: 0
-    ZRadius: 0.03
+    ZRadius: 0.02272158
     ZBias: 0
   _forearmEllipse:
-    XRadius: 0.033000577
+    XRadius: 0.023914965
     XBias: 0
-    ZRadius: 0.03
+    ZRadius: 0.023930976
     ZBias: 0
   _wristEllipse:
-    XRadius: 0.034000807
+    XRadius: 0.024309509
     XBias: 0
-    ZRadius: 0.03
+    ZRadius: 0.033634204
     ZBias: 0
   bulgeBreast:
     apexX: 34.652355

@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1910159ced7b0ca439631241a1df5fd1, type: 3}
-  m_Name: BabbleAvatar_Avatars_PalletGroupSchema
+  m_Name: SophieBaybeyAvatar_Avatars_PalletGroupSchema
   m_EditorClassIdentifier: 
-  m_Group: {fileID: 11400000, guid: df259c728e6cd8443803691eca51cd0e, type: 2}
-  _pallet: {fileID: 11400000, guid: 605a15ea3a879da4aa870d935755274d, type: 2}
+  m_Group: {fileID: 11400000, guid: 8098ce954e4e9a84e9e133a3fafba666, type: 2}
+  _pallet: {fileID: 11400000, guid: 1890dc94888da2341848d0d7d18cdf61, type: 2}
   _marrowGame: {fileID: 0}

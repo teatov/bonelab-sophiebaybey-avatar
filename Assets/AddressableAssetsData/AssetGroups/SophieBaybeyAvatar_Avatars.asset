@@ -10,20 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: BabbleAvatar_Avatars
+  m_Name: SophieBaybeyAvatar_Avatars
   m_EditorClassIdentifier: 
-  m_GroupName: BabbleAvatar_Avatars
+  m_GroupName: SophieBaybeyAvatar_Avatars
   m_Data:
     m_SerializedData: []
-  m_GUID: df259c728e6cd8443803691eca51cd0e
+  m_GUID: 8098ce954e4e9a84e9e133a3fafba666
   m_SerializeEntries:
-  - m_GUID: f77d5ba55c4937a48934810f013144c4
-    m_Address: Avatar/Babble
+  - m_GUID: 3a33406be66b7934f83935988091eff4
+    m_Address: Avatar/SophieBaybey
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: f73ec2803d24a2e4db05b0e15b3713a2
-    m_Address: PreviewMesh/Babble
+  - m_GUID: 526443229eb5bed4db610b996a232b07
+    m_Address: PreviewMesh/SophieBaybey
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -31,6 +31,6 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: 1124cc844f78ae94ba8f1cb823bf5aee, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 0aa96ba8ab563ed43b29109e81b10418, type: 2}
-    - {fileID: 11400000, guid: 3d3ead41dab63f8428506c2a16a2c4c8, type: 2}
-    - {fileID: 11400000, guid: b83791ffaa5b4994ca64a05f30dabb6b, type: 2}
+    - {fileID: 11400000, guid: 6f78f01a6e9d0274d8a3c7fa7cf3819d, type: 2}
+    - {fileID: 11400000, guid: 085f363f30ab15e40808145a9e4b49c5, type: 2}
+    - {fileID: 11400000, guid: 755ba3224fccfd842a63f49d899b8f2a, type: 2}

@@ -323,7 +323,7 @@ MonoBehaviour:
     secondaryLf: {fileID: 0}
   footstepsWalk: {fileID: 0}
   footstepsJog: {fileID: 0}
-  highFallOntoFeet: {fileID: 11400000, guid: f0004b6cb55fba34785810aa934ef5fe, type: 2}
+  highFallOntoFeet: {fileID: 0}
   smallEffort: {fileID: 0}
   bigEffort: {fileID: 0}
   smallPain: {fileID: 0}
