@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1910159ced7b0ca439631241a1df5fd1, type: 3}
   m_Name: SophieBaybeyAvatar_Avatars_PalletGroupSchema
   m_EditorClassIdentifier: 
-  m_Group: {fileID: 11400000, guid: 8098ce954e4e9a84e9e133a3fafba666, type: 2}
+  m_Group: {fileID: 11400000, guid: a360004d418066b419c8108c484438dc, type: 2}
   _pallet: {fileID: 11400000, guid: 1890dc94888da2341848d0d7d18cdf61, type: 2}
   _marrowGame: {fileID: 0}

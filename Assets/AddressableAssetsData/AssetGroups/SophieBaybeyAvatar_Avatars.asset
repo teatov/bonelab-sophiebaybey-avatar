@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: SophieBaybeyAvatar_Avatars
   m_Data:
     m_SerializedData: []
-  m_GUID: 8098ce954e4e9a84e9e133a3fafba666
+  m_GUID: a360004d418066b419c8108c484438dc
   m_SerializeEntries:
   - m_GUID: 3a33406be66b7934f83935988091eff4
     m_Address: Avatar/SophieBaybey
@@ -31,6 +31,6 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: 1124cc844f78ae94ba8f1cb823bf5aee, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 6f78f01a6e9d0274d8a3c7fa7cf3819d, type: 2}
-    - {fileID: 11400000, guid: 085f363f30ab15e40808145a9e4b49c5, type: 2}
-    - {fileID: 11400000, guid: 755ba3224fccfd842a63f49d899b8f2a, type: 2}
+    - {fileID: 11400000, guid: 3e1c61001b1d9bd4dbd27f5b1263b823, type: 2}
+    - {fileID: 11400000, guid: da1371e0102023c408be041a929ae855, type: 2}
+    - {fileID: 11400000, guid: b6cf74bed6bd97142a5033fb344b7b31, type: 2}
