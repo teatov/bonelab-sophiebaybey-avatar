@@ -319,8 +319,8 @@ MonoBehaviour:
   highFallOntoFeet: {fileID: 11400000, guid: f0004b6cb55fba34785810aa934ef5fe, type: 2}
   smallEffort: {fileID: 0}
   bigEffort: {fileID: 0}
-  smallPain: {fileID: 11400000, guid: efd2f7be7089d2b469225d439ad5578b, type: 2}
-  bigPain: {fileID: 11400000, guid: efd2f7be7089d2b469225d439ad5578b, type: 2}
+  smallPain: {fileID: 0}
+  bigPain: {fileID: 0}
   dying: {fileID: 0}
   dead: {fileID: 0}
   recovery: {fileID: 0}
